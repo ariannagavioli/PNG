@@ -4,7 +4,7 @@ The aim of this project is to implement a PseudoNoise Generator for CDMA transmi
 2. the generator must follow the characteristic polynomial x^15 + x^13 + x^9 + x^8 + x^7 + x^5 + 1
 
 ## VHDL implementation
-The VHDL implementation is available in the [hdl](https://github.com/ariannagavioli/PNG/hdl) folder. 
+The VHDL implementation is available in the [hdl](https://github.com/ariannagavioli/PNG/tree/master/hdl) folder. 
 
 ## Tests
 After a ModelSim simulation, some tests have been executed on the output of the generator. The test code is available in the `Test Material` folder.
