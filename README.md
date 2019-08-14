@@ -7,7 +7,7 @@ The aim of this project is to implement a PseudoNoise Generator for CDMA transmi
 The VHDL implementation is available in the [hdl](https://github.com/ariannagavioli/PNG/tree/master/hdl) folder. 
 
 ## Tests
-After a ModelSim simulation, some tests have been executed on the output of the generator. The test code is available in the [Test Material](https://github.com/ariannagavioli/PNG/tree/master/Test%20Material)folder.
+After a ModelSim simulation, some tests have been executed on the output of the generator. The test code is available in the [Test Material](https://github.com/ariannagavioli/PNG/tree/master/Test%20Material) folder.
 
 ## Documentation
 For a better understanding of the project, [here's](https://github.com/ariannagavioli/PNG/blob/master/Report.pdf) its report.
